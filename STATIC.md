@@ -1,6 +1,5 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero.svg">
-  <img alt="Syed Ahamed — Applied AI, Robotics, Systems. Abu Dhabi, UAE. Software, hardware, and the people behind both." src="assets/hero-motion.svg" width="100%">
+  <img alt="Syed Ahamed — Applied AI, Robotics, Systems. Abu Dhabi, UAE. Software, hardware, and the people behind both." src="assets/hero.svg" width="100%">
 </picture>
 
 <p align="center">
@@ -20,10 +19,7 @@ I work across intelligent software, physical prototypes, and the systems that he
 
 <p>
 <a href="https://github.com/mustafamoe/moei">
-  <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/firasah.svg">
-  <img src="assets/firasah-motion.svg" alt="01 — Firasah. Applied intelligence: from scattered evidence to a usable briefing." width="100%">
-</picture>
+  <img src="assets/firasah.svg" alt="01 — Firasah. Applied intelligence: from scattered evidence to a usable briefing." width="100%">
 </a>
 </p>
 
@@ -37,10 +33,7 @@ I work across intelligent software, physical prototypes, and the systems that he
 
 <p>
 <a href="case-studies/himaya.md">
-  <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/himaya.svg">
-  <img src="assets/himaya-motion.svg" alt="02 — Himaya. Physical systems: vibration, acoustics and rotation on a controlled engine-health test rig." width="100%">
-</picture>
+  <img src="assets/himaya.svg" alt="02 — Himaya. Physical systems: vibration, acoustics and rotation on a controlled engine-health test rig." width="100%">
 </a>
 </p>
 
@@ -54,10 +47,7 @@ I work across intelligent software, physical prototypes, and the systems that he
 
 <p>
 <a href="case-studies/flybrain.md">
-  <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/flybrain.svg">
-  <img src="assets/flybrain-motion.svg" alt="03 — FlyBrain Lab. Experimental software: circuit interventions, matched-seed comparisons and replay." width="100%">
-</picture>
+  <img src="assets/flybrain.svg" alt="03 — FlyBrain Lab. Experimental software: circuit interventions, matched-seed comparisons and replay." width="100%">
 </a>
 </p>
 
@@ -75,10 +65,7 @@ I work across intelligent software, physical prototypes, and the systems that he
 
 <p>
 <a href="https://medium.com/@Ahamedinmotion/before-the-system-there-was-a-graveyard-bde30540dfaf">
-  <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/robotics.svg">
-  <img src="assets/robotics-motion.svg" alt="42 Abu Dhabi Robotics Club. Build, document, defend. A six-rank curriculum built around projects, peer evaluation and technical defences." width="100%">
-</picture>
+  <img src="assets/robotics.svg" alt="42 Abu Dhabi Robotics Club. Build, document, defend. A six-rank curriculum built around projects, peer evaluation and technical defences." width="100%">
 </a>
 </p>
 
@@ -110,10 +97,7 @@ I write about the decisions behind the builds: what was attempted, what failed, 
 
 <p>
 <a href="https://www.linkedin.com/in/syed-ahamed-shameer-8223a3386/">
-  <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="assets/footer.svg">
-  <img src="assets/footer-motion.svg" alt="Ahamed in motion — connect on LinkedIn." width="100%">
-</picture>
+  <img src="assets/footer.svg" alt="Ahamed in motion — connect on LinkedIn." width="100%">
 </a>
 </p>
 
@@ -124,4 +108,6 @@ I write about the decisions behind the builds: what was attempted, what failed, 
   <a href="https://www.kaggle.com/ahamedinmotion">Kaggle</a>
 </p>
 
-<p align="center"><sub><a href="STATIC.md">View without motion</a></sub></p>
+---
+
+[Return to the animated profile](https://github.com/Ahamedinmotion)

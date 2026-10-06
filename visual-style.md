@@ -1,6 +1,6 @@
 ---
 name: "Ahamed in Motion — 42 visual language"
-version: "2.0"
+version: "3.0"
 style_prompt_short: >
   VG5000 statement typography, a vivid 42 palette, generative linework,
   and disciplined computer-window framing.
@@ -52,3 +52,21 @@ window framing (page 12), and restraint rules (pages 19–20).
 VG5000 is used in artwork. Futura PT is specified by the guide but was not
 available for authoring; no different font was silently substituted in its
 place. GitHub controls the surrounding page and body font.
+
+## Motion system
+
+Motion lives inside six self-contained SVG images. The hero combines a slow map
+drift, floating isometric layers, moving packets and a nine-second
+build/test/iterate cycle. Firasah traverses a retrieval graph and composes a
+brief; Himaya sweeps three conceptual signal traces; FlyBrain propagates
+illustrative circuit activity; the club panel sequences curriculum ranks.
+The footer arrow invites continuation.
+
+Headlines and body text stay still. Use transform, opacity and stroke-dashoffset
+animations, with no scripts, external assets, flashing or animated claims.
+All animation rules live inside prefers-reduced-motion: no-preference. The
+default composition is complete and readable. A separate STATIC.md edition
+provides an explicit still-page option.
+
+README picture sources explicitly select the matching static SVG when reduced
+motion is requested, since embedded SVG media behavior can vary by browser.
